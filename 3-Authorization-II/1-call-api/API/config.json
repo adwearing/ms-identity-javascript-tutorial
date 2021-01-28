@@ -1,8 +1,8 @@
 {
     "credentials": {
-        "tenantID": "Enter_the_Tenant_ID",
-        "clientID": "Enter_the_Client_ID",
-        "audience": "Enter_the_Client_ID"
+        "tenantID": "c8cc98e6-2d83-4338-8452-082068785737",
+        "clientID": "ca82d903-d649-45a6-9f8e-af5fc3323e99",
+        "audience": "ca82d903-d649-45a6-9f8e-af5fc3323e99"
     },
     "metadata": {
         "authority": "login.microsoftonline.com",
